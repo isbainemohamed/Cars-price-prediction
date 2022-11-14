@@ -10,6 +10,5 @@
 > **`Business Goal`** : You are required to **model the price of cars with the available independent variables**. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 - 🎯 **`Business Goal`** : We are required in this **`notebook`** to **model the price of cars with the available independent variables**. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
-- 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
+- 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **isbainemohamed@gmail.com**
 
-<a href="https://colab.research.google.com/github/labrijisaad/Car-Price-Prediction/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
